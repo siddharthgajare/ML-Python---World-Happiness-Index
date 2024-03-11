@@ -1,9 +1,9 @@
 # ML-Python---World-Happiness-Index
 
-Title: Global Happiness 2021 Insights with ML Exploration
+Title: World Happiness Index
 
 Introduction:
-In this project, I explored global happiness levels using Python and R, aiming to create an interactive visualization based on the 2021 World Happiness Report. Let's delve into the data and discover insights together.
+In this project, I explored world happiness levels using Python and R, aiming to create an interactive visualization based on the 2021 World Happiness Report. Let's delve into the data and discover insights together.
 
 Data Collection:
 I collected the 2021 World Happiness Report data, including GDP per capita, social support, and life expectancy, laying the foundation for analysis.
