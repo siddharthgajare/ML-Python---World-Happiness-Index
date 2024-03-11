@@ -1,4 +1,4 @@
-# ML-Python---World-Happiness-Index
+# World Happiness Index
 
 Title: World Happiness Index
 
